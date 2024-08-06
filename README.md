@@ -1,4 +1,5 @@
 # Shorts
+# Read Youtube video summaries quickly as Tinder like cards. Swipe to move to the next one.
 
 1. Create a .env file in shorts_backend folder :
    
