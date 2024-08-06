@@ -1,0 +1,11 @@
+# pip install -r requirements.txt
+flask
+flask_cors
+youtube-transcript-api
+google-api-python-client
+openai==0.28
+redis
+python-dotenv
+psycopg2-binary 
+sqlalchemy
+flask-sqlalchemy
